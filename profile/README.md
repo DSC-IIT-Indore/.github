@@ -30,6 +30,13 @@ From casual games to immersive experiences, our game development enthusiasts are
 
 As blockchain technology revolutionizes industries across the globe, our members engage in understanding its fundamentals, building decentralized applications (DApps), and exploring the potential of smart contracts and cryptocurrencies.
 
+## Blogs and Publications 
+As a club activity, we regularly write informative and insightful blogs on various topics related to technology and our working domains. Our blog posts cover a wide range of topics.
+
+Feel free to explore these articles and gain valuable insights from our club members. Stay tuned for more exciting content coming your way!
+
+[Link to the Blogs](https://gdsciiti.blogspot.com/)
+
 ## Get Involved
 
 Whether you're a beginner or an experienced developer, DSC IIT Indore has something to offer. Join us to be part of a vibrant community, attend workshops and events, collaborate on projects, and embark on a journey of continuous learning.
